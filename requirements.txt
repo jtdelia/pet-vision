@@ -1,0 +1,7 @@
+transformers
+requests
+Pillow
+torch
+torchvision
+flask
+huggingface_hub[cli]
